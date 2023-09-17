@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-smart-card',
@@ -6,5 +6,21 @@ import { Component } from '@angular/core';
   styleUrls: ['./smart-card.component.css']
 })
 export class SmartCardComponent {
+
+  @Input()
+  photoCover:string = ""
+  @Input()
+  cardTitle:string = ""
+
+
+
+  constructor(){
+
+  }
+
+ ngOnInit(): void {
+
+
+ }
 
 }
