@@ -1,0 +1,22 @@
+git branch -m main
+git remote add origin https://github.com/marcelolimad/angular-blog.git
+git push -u origin main
+
+
+
+-------------------------------------
+toda vez que atualizar o projeto
+
+// git add .
+// git commit =m "msg"
+// git push -u origin main
+
+RGB
+
+122, 65, 111
+244, 147, 112
+250, 176, 125
+251, 200, 169
+
+Parei na aula 8 - Criando o Componente do Menu (Feito)
+              9 - Commintando seu projeto e editando ele online (Pendente)

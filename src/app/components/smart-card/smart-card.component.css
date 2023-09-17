@@ -1,0 +1,34 @@
+.container_smart-card{
+  border: solid #F49370 2px;
+
+  width: 400px;
+  height: 100px;
+  margin-bottom: 15px;
+
+
+  }
+
+  .container_smart-card-content{
+    display: flex;
+    flex-direction: row;
+
+  }
+
+  .smart-card_photo > img{
+    width: 100px;
+    min-width: 100px;
+    margin-right: 20px;
+
+  }
+
+  .smart-card_title > h1 > a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   }
+
+  .container_smart-card_separator{
+  margin-top: 10px;
+
+  }
