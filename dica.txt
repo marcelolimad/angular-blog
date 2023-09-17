@@ -20,3 +20,9 @@ RGB
 
 Parei na aula 8 - Criando o Componente do Menu (Feito)
               9 - Commintando seu projeto e editando ele online (Pendente)
+
+
+mandar atualização para git
+1. git add .
+2. git commit -m "comentatios"
+3. git push -u origin main
