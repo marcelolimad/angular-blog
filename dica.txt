@@ -18,8 +18,8 @@ RGB
 250, 176, 125
 251, 200, 169
 
-Parei na aula 8 - Criando o Componente do Menu (Feito)
-              9 - Commintando seu projeto e editando ele online (Pendente)
+Parei na aula 14  Pegando os dados dinamicamente (Pendente)
+
 
 
 mandar atualização para git
